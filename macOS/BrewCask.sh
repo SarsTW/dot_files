@@ -21,6 +21,7 @@ brew cask install mou
 brew cask install mplayerx
 brew cask install nally
 brew cask install quip
+brew cask install sequel-pro
 brew cask install sketch
 brew cask install skype
 brew cask install slack
