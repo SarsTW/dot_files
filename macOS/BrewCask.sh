@@ -28,6 +28,7 @@ brew cask install slack
 brew cask install sourcetree
 brew cask install spotify
 brew cask install telegram-desktop
+brew cask install typora
 brew cask install virtualbox
 brew cask install wireshark
 

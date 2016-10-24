@@ -9,6 +9,7 @@ brew update
 
 brew install ansible
 brew install arping
+brew install fish
 brew install git
 brew install git-flow
 brew install go
