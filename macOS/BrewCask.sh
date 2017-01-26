@@ -17,6 +17,7 @@ brew cask install firefox
 brew cask install franz
 brew cask install google-chrome
 brew cask install google-drive
+brew cask install iterm2
 brew cask install keycastr
 brew cask install mou
 brew cask install mplayerx
