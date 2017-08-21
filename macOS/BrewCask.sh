@@ -10,6 +10,7 @@ brew update
 brew install caskroom/cask/brew-cask
 
 brew cask install appcleaner
+brew cask install blisk
 brew cask install caskroom-versions/sublime-text3
 brew cask install dropbox
 brew cask install evernote
