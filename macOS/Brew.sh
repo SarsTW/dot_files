@@ -13,10 +13,16 @@ brew install fish
 brew install git
 brew install git-flow
 brew install go
+# https://github.com/go-delve/homebrew-delve/issues/19
+brew install go-delve/delve/delve
+brew install grep --with-default-names
 brew install mtr
 brew install nmap
 brew install nvm
 brew install tcping
 brew install tree
+brew install watch
 brew install wget
+brew install yarn
+brew install youtube-dl
 
