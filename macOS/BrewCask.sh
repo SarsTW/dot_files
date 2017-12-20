@@ -3,7 +3,7 @@
 xcode-select --install
 xcode-select -p
 
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew doctor
 brew update
 
@@ -18,7 +18,7 @@ brew cask install firefox
 brew cask install fork
 brew cask install franz
 brew cask install google-chrome
-brew cask install google-drive
+brew cask install google-drive-file-stream
 brew cask install insomnia
 brew cask install iterm2
 brew cask install keycastr
