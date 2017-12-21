@@ -35,6 +35,7 @@ brew cask install spotify
 brew cask install telegram-desktop
 brew cask install typora
 brew cask install virtualbox
+brew cask install visual-studio-code
 brew cask install wireshark
 
 # https://github.com/sindresorhus/quick-look-plugins
