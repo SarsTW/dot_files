@@ -1,0 +1,17 @@
+startup_message off
+defscrollback 1024
+bind ^k
+#bind L
+bind ^\
+# Make them better
+bind \\ quit
+bind K kill
+bind } history
+bind b encoding big5
+bind u encoding big5 utf8
+bindkey ^[z prev
+bindkey ^[x next
+bindkey ^[, prev
+bindkey ^[. next
+termcapinfo vt100 dl=5\E[M
+hardstatus alwayslastline "%{dK}%{C}$USER@%H %{W}| %{+b y}%n %{+b G}>%{W} %t %{G}<%{W} %= load(%l) %{dR}%{W} %m/%d %A%0C %{dK}%{}"
