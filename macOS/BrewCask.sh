@@ -18,6 +18,7 @@ brew cask install firefox
 brew cask install fork
 brew cask install franz
 brew cask install google-chrome
+brew cask install google-cloud-sdk
 brew cask install google-drive-file-stream
 brew cask install insomnia
 brew cask install iterm2
