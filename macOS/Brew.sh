@@ -15,6 +15,7 @@ brew install git-flow
 brew install go
 # https://github.com/go-delve/homebrew-delve/issues/19
 brew install go-delve/delve/delve
+brew install gpg
 brew install grep --with-default-names
 brew install htop
 brew install kubernetes-cl

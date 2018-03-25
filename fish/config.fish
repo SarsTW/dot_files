@@ -12,3 +12,5 @@ bass source '/Users/sars/Developer/google-cloud-sdk/path.bash.inc'
 bass source '/Users/sars/Developer/google-cloud-sdk/completion.bash.inc'
 
 export GOPATH=$HOME/Developer/gopath/
+
+set -x GPG_TTY (tty)

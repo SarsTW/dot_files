@@ -12,6 +12,7 @@ brew install caskroom/cask/brew-cask
 brew cask install appcleaner
 brew cask install blisk
 brew cask install caskroom-versions/sublime-text3
+brew cask install docker
 brew cask install dropbox
 brew cask install evernote
 brew cask install firefox
@@ -26,6 +27,7 @@ brew cask install keycastr
 brew cask install mou
 brew cask install mplayerx
 brew cask install nally
+brew cask install postman
 brew cask install quip
 brew cask install sequel-pro
 brew cask install sketch
