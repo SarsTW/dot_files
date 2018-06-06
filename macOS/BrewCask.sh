@@ -11,6 +11,7 @@ brew install caskroom/cask/brew-cask
 
 brew cask install appcleaner
 brew cask install blisk
+brew cask install caprine
 brew cask install caskroom-versions/sublime-text3
 brew cask install docker
 brew cask install dropbox
