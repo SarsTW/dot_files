@@ -11,6 +11,7 @@ bass source '/Users/sars/Developer/google-cloud-sdk/path.bash.inc'
 # The next line enables shell command completion for gcloud.
 bass source '/Users/sars/Developer/google-cloud-sdk/completion.bash.inc'
 
-export GOPATH=$HOME/Developer/gopath/
+export GOPATH=$HOME/go/
 
 set -x GPG_TTY (tty)
+

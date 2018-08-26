@@ -26,10 +26,13 @@ brew cask install grammarly
 brew cask install insomnia
 brew cask install iterm2
 brew cask install keycastr
+brew cask install mongodb-compass-community
 brew cask install mou
 brew cask install mplayerx
+brew cask install mysqlworkbench
 brew cask install nally
 brew cask install postman
+brew cask install robo-3t
 brew cask install sequel-pro
 brew cask install sketch
 brew cask install skype
