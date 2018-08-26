@@ -1,6 +1,7 @@
 [user]
-	name = Sars
+	name = Sars Chang
 	email = sars.tw@gmail.com
+	signingkey = 63E4A567C4E4A40E
 [core]
 	excludesfile = /Users/sars/.gitignore_global
 [alias]
@@ -15,3 +16,12 @@ lg = !"git lg1"
 	trustExitCode = true
 [push]
 	default = simple
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
