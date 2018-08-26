@@ -27,6 +27,7 @@ brew install mtr
 brew install ncdu
 brew install nmap
 brew install nvm
+brew install pinentry-mac
 brew install tcping
 brew install tree
 brew install unrar
