@@ -53,3 +53,6 @@ brew cask install quicklook-json
 
 brew cask install homebrew/cask-versions/google-chrome-canary
 
+brew tap nrlquaker/personal
+brew cask install winbox-mac
+
