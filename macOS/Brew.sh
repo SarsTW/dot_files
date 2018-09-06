@@ -20,6 +20,7 @@ brew install gpg
 brew install grep --with-default-names
 brew install htop
 brew install hugo
+brew install jid
 brew install jq
 brew install kubernetes-cl
 brew install mas

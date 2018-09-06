@@ -17,4 +17,5 @@ mas install 1176895641
 mas install 1356043814
 mas install 1127253508
 mas install 409203825
+mas install 1295203466 # Microsoft Remote Desktop 10
 
