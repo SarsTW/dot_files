@@ -22,7 +22,8 @@ brew install htop
 brew install hugo
 brew install jid
 brew install jq
-brew install kubernetes-cl
+brew install kubectx
+brew install kubernetes-cli
 brew install mas
 brew install mtr
 brew install ncdu
