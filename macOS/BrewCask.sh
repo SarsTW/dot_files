@@ -31,6 +31,7 @@ brew cask install mou
 brew cask install mplayerx
 brew cask install mysqlworkbench
 brew cask install nally
+brew cask install nrlquaker-winbox
 brew cask install postman
 brew cask install robo-3t
 brew cask install sequel-pro
@@ -52,7 +53,4 @@ brew cask install qlmarkdown
 brew cask install quicklook-json
 
 brew cask install homebrew/cask-versions/google-chrome-canary
-
-brew tap nrlquaker/personal
-brew cask install winbox-mac
 
