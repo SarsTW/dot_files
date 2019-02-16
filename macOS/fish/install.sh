@@ -1,7 +1,7 @@
 #!/bin/sh
 
 git clone https://github.com/edc/bass.git
-cd bass && make install && cd ..
+cd bass && make install && cd .. && rm -r bass
 
 echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
 
