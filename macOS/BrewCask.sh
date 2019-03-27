@@ -55,3 +55,8 @@ brew cask install quicklook-json
 
 brew cask install homebrew/cask-versions/google-chrome-canary
 
+# Font
+brew tap homebrew/cask-fonts
+brew cask install font-source-han-sans # 思源黑體 | Source Han Sans
+brew cask install font-source-han-serif # 思源宋體 | Source Han Serif
+

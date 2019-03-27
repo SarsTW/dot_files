@@ -4,11 +4,13 @@ xcode-select --install
 xcode-select -p
 
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew analytics off
 brew doctor
 brew update
 
 brew install ansible
 brew install arping
+brew install awscli
 brew install fish
 brew install git
 brew install git-flow
