@@ -9,6 +9,7 @@ brew update
 
 brew install caskroom/cask/brew-cask
 
+brew cask install 1password
 brew cask install appcleaner
 brew cask install blisk
 brew cask install caprine
@@ -27,6 +28,7 @@ brew cask install grammarly
 brew cask install insomnia
 brew cask install iterm2
 brew cask install keycastr
+brew cask install mcbopomofo
 brew cask install mongodb-compass-community
 brew cask install mou
 brew cask install mplayerx
@@ -57,6 +59,7 @@ brew cask install homebrew/cask-versions/google-chrome-canary
 
 # Font
 brew tap homebrew/cask-fonts
+brew cask install font-noto-sans-cjk
 brew cask install font-source-han-sans # 思源黑體 | Source Han Sans
 brew cask install font-source-han-serif # 思源宋體 | Source Han Serif
 
