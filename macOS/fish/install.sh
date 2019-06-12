@@ -10,6 +10,9 @@ mkdir -p ~/.config/fish/conf.d/
 cp config.fish ~/.config/fish/
 cp fish_command_timer.fish ~/.config/fish/conf.d/
 
+# Install oh-my-fish
+curl -L https://get.oh-my.fish | fish
+
 # Don't send LANG for ssh client
 sudo sed -i '.bak' 's/SendEnv LANG LC_/#SendEnv LANG LC_/' /etc/ssh/ssh_config
 
