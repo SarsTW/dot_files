@@ -20,6 +20,7 @@ brew install go
 brew install go-delve/delve/delve
 brew install gpg
 brew install grep --with-default-names
+brew install helm
 brew install htop
 brew install hugo
 brew install jid

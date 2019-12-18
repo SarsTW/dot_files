@@ -43,6 +43,7 @@ brew cask install skype
 brew cask install slack
 brew cask install sourcetree
 brew cask install spotify
+brew cask install sublime-text
 brew cask install telegram-desktop
 brew cask install thunderbird
 brew cask install typora
