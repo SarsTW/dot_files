@@ -1,55 +1,54 @@
 #!/bin/bash
 
-xcode-select --install
-xcode-select -p
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew doctor
 brew update
 
-brew install caskroom/cask/brew-cask
-
-brew cask install 1password
-brew cask install appcleaner
+brew install 1password
+brew install appcleaner
 brew cask install blisk
 brew cask install caprine
 brew cask install caskroom-versions/sublime-text3
 brew cask install docker
-brew cask install dropbox
-brew cask install evernote
-brew cask install firefox
-brew cask install fork
+brew install dropbox
+brew install evernote
+brew install firefox
+brew install fork
 brew cask install franz
 brew cask install goland
-brew cask install google-chrome
-brew cask install google-cloud-sdk
-brew cask install google-drive-file-stream
+brew install google-chrome
+brew install google-cloud-sdk
+brew install google-drive
 brew cask install grammarly
 brew cask install insomnia
 brew cask install iterm2
 brew cask install keycastr
 brew cask install mcbopomofo
+brew install messenger
+brew install microsoft-remote-desktop
 brew cask install mongodb-compass-community
 brew cask install mou
 brew cask install mplayerx
-brew cask install mysqlworkbench
-brew cask install nally
+brew install mysqlworkbench
 brew cask install nrlquaker-winbox
-brew cask install postman
+brew install obsidian
+brew install postman
 brew cask install robo-3t
 brew cask install sequel-pro
 brew cask install sketch
 brew cask install skype
-brew cask install slack
-brew cask install sourcetree
-brew cask install spotify
+brew install slack
+brew install sourcetree
 brew cask install sublime-text
+brew install synology-drive
 brew cask install tableplus
-brew cask install telegram-desktop
-brew cask install thunderbird
+brew install telegram-desktop
+brew install thunderbird
+brew install todoist
 brew cask install typora
 brew cask install virtualbox
-brew cask install visual-studio-code
+brew install visual-studio-code
 brew cask install wireshark
 
 # https://github.com/sindresorhus/quick-look-plugins

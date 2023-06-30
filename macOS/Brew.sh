@@ -3,7 +3,7 @@
 xcode-select --install
 xcode-select -p
 
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew analytics off
 brew doctor
 brew update
@@ -11,6 +11,7 @@ brew update
 brew install ansible
 brew install arping
 brew install awscli
+brew install ffmpeg
 brew install fish
 brew install git
 brew install git-flow
@@ -29,6 +30,7 @@ brew install kubectx
 brew install kubernetes-cli
 brew install mas
 brew install mtr
+brew install nativefier
 brew install ncdu
 brew install nmap
 brew install nvm
