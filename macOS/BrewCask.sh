@@ -10,7 +10,7 @@ brew install appcleaner
 brew cask install blisk
 brew cask install caprine
 brew cask install caskroom-versions/sublime-text3
-brew cask install docker
+brew install docker
 brew install dropbox
 brew install evernote
 brew install firefox
@@ -22,7 +22,7 @@ brew install google-cloud-sdk
 brew install google-drive
 brew cask install grammarly
 brew cask install insomnia
-brew cask install iterm2
+brew install iterm2
 brew cask install keycastr
 brew cask install mcbopomofo
 brew install messenger
@@ -35,9 +35,9 @@ brew cask install nrlquaker-winbox
 brew install obsidian
 brew install postman
 brew cask install robo-3t
-brew cask install sequel-pro
+brew install sequel-ace
 brew cask install sketch
-brew cask install skype
+brew install skype
 brew install slack
 brew install sourcetree
 brew cask install sublime-text
@@ -56,7 +56,7 @@ brew cask install qlimagesize
 brew cask install qlmarkdown
 brew cask install quicklook-json
 
-brew cask install homebrew/cask-versions/google-chrome-canary
+brew install homebrew/cask-versions/google-chrome-canary
 
 # Font
 brew tap homebrew/cask-fonts

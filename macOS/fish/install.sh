@@ -6,9 +6,10 @@ cd bass && make install && cd .. && rm -rf bass
 echo "/opt/homebrew/bin/fish" | sudo tee -a /etc/shells
 
 
-mkdir -p ~/.config/fish/conf.d/
+mkdir -p ~/.config/fish/conf.d/ ~/.config/fish/functions/
 cp config.fish ~/.config/fish/
 cp fish_command_timer.fish ~/.config/fish/conf.d/
+cp history.fish ~/.config/fish/functions/
 
 # Install oh-my-fish
 curl -L https://get.oh-my.fish | fish
