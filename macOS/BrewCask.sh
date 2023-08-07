@@ -13,6 +13,7 @@ brew cask install caskroom-versions/sublime-text3
 brew install docker
 brew install dropbox
 brew install evernote
+brew install finicky
 brew install firefox
 brew install fork
 brew cask install franz
@@ -33,6 +34,7 @@ brew cask install mplayerx
 brew install mysqlworkbench
 brew cask install nrlquaker-winbox
 brew install obsidian
+brew install orbstack
 brew install postman
 brew cask install robo-3t
 brew install sequel-ace
